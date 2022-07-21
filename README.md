@@ -1,7 +1,6 @@
 # OpenPCBLGR
-An Open-Source Loop-Gap Resonator for X-Band EPR Spectroscopy
-
-Rev 1.0
+## An Open-Source Loop-Gap Resonator for X-Band EPR Spectroscopy
+### Rev 1.0
 
 ![OpenPCBLGR Resonator](Manual/RESONATOR_72dpi.png)
 
