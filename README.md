@@ -3,7 +3,7 @@ An Open-Source Loop-Gap Resonator for X-Band EPR Spectroscopy
 
 Rev 1.0
 
-![OpenPCBLGR Resonator](/manual/RESONATOR_72dpi.png)
+![OpenPCBLGR Resonator](manual/RESONATOR_72dpi.png)
 
 
 This repository contains CAD files (solidworks and STEP files), 3d printer files (STL), KiCAD project files, 
